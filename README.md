@@ -3,42 +3,43 @@
 Log manager for the
 [Straight Key Century Club (SKCC)](https://skccgroup.com).
 
-## Latest Version: v1.0.140b
+## Latest Version: v1.0.141b
 
 | Platform | Notes | Download |
 | --- | --- | --- |
-| Windows (64-bit) | Most Windows PCs (Windows 10/11) | [skcclogger-windows-amd64-v1.0.140b.exe][win64] |
-| Windows (32-bit) | Older 32-bit Windows PCs | [skcclogger-windows-x86-v1.0.140b.exe][win32] |
-| macOS (Apple Silicon) | Mac with M1/M2/M3/M4 chip (2020 or newer) | [skcclogger-macos-arm64-v1.0.140b.tar.gz][mac-arm] |
-| macOS (Intel) | Mac with Intel chip (macOS 10.15 Catalina or newer) | [skcclogger-macos-intel-v1.0.140b.tar.gz][mac-intel] |
-| macOS (Intel, Mojave) | Mac with Intel chip running macOS 10.14 Mojave | [skcclogger-macos-intel-mojave-v1.0.140b.tar.gz][mac-mojave] |
+| Windows (64-bit) | Most Windows PCs (Windows 10/11) | [skcclogger-windows-amd64-v1.0.141b.zip][win64] |
+| Windows (32-bit) | Older 32-bit Windows PCs | [skcclogger-windows-x86-v1.0.141b.zip][win32] |
+| macOS (Apple Silicon) | Mac with M1/M2/M3/M4 chip (2020 or newer) | [skcclogger-macos-arm64-v1.0.141b.tar.gz][mac-arm] |
+| macOS (Intel) | Mac with Intel chip (macOS 10.15 Catalina or newer) | [skcclogger-macos-intel-v1.0.141b.tar.gz][mac-intel] |
+| macOS (Intel, Mojave) | Mac with Intel chip running macOS 10.14 Mojave | [skcclogger-macos-intel-mojave-v1.0.141b.tar.gz][mac-mojave] |
 | Linux (64-bit) | Most desktop Linux PCs | [.deb][linux-amd64-deb] / [.rpm][linux-amd64-rpm] |
 | Linux (ARM 64-bit) | ARM-based Linux (e.g., Raspberry Pi 4/5 with 64-bit OS) | [.deb][linux-arm64-deb] / [.rpm][linux-arm64-rpm] |
-| Linux (32-bit) | Older 32-bit Linux PCs | [skcclogger-linux-x86-v1.0.140b][linux-x86] |
-| Linux (Raspberry Pi) | Raspberry Pi with 32-bit OS | [skcclogger-linux-armhf-v1.0.140b][linux-armhf] |
+| Linux (32-bit) | Older 32-bit Linux PCs | [skcclogger-linux-x86-v1.0.141b][linux-x86] |
+| Linux (Raspberry Pi) | Raspberry Pi with 32-bit OS | [skcclogger-linux-armhf-v1.0.141b][linux-armhf] |
 
-[win64]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-windows-amd64-v1.0.140b.exe
-[win32]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-windows-x86-v1.0.140b.exe
-[mac-arm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-macos-arm64-v1.0.140b.tar.gz
-[mac-intel]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-macos-intel-v1.0.140b.tar.gz
-[mac-mojave]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-macos-intel-mojave-v1.0.140b.tar.gz
-[linux-amd64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-linux-amd64-v1.0.140b.deb
-[linux-amd64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-linux-amd64-v1.0.140b.rpm
-[linux-arm64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-linux-arm64-v1.0.140b.deb
-[linux-arm64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-linux-arm64-v1.0.140b.rpm
-[linux-x86]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-linux-x86-v1.0.140b
-[linux-armhf]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.140b/skcclogger-linux-armhf-v1.0.140b
+[win64]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-windows-amd64-v1.0.141b.zip
+[win32]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-windows-x86-v1.0.141b.zip
+[mac-arm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-macos-arm64-v1.0.141b.tar.gz
+[mac-intel]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-macos-intel-v1.0.141b.tar.gz
+[mac-mojave]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-macos-intel-mojave-v1.0.141b.tar.gz
+[linux-amd64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-linux-amd64-v1.0.141b.deb
+[linux-amd64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-linux-amd64-v1.0.141b.rpm
+[linux-arm64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-linux-arm64-v1.0.141b.deb
+[linux-arm64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-linux-arm64-v1.0.141b.rpm
+[linux-x86]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-linux-x86-v1.0.141b
+[linux-armhf]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.141b/skcclogger-linux-armhf-v1.0.141b
 
 ## Checksums and Platform Notes
 
 The [full release page][release-page] includes MD5 checksums and
 platform-specific README files with detailed installation instructions.
 
-[release-page]: https://github.com/K7MJG/SKCCLogger-releases/releases/tag/v1.0.140b
+[release-page]: https://github.com/K7MJG/SKCCLogger-releases/releases/tag/v1.0.141b
 
 ## Installation
 
-**Windows:** Download the `.exe` and run it. No installer needed.
+**Windows:** Download the `.zip`, extract it, and run the `.exe`
+inside. No installer needed.
 
 **macOS:** Download the `.tar.gz`, extract, and move
 `SKCCLogger v2.app` to your Applications folder. On first launch,
