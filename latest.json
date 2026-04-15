@@ -1,16 +1,16 @@
 {
-  "version": "v1.0.135b",
-  "date": "2026-04-14T23:59:08Z",
+  "version": "v1.0.136b",
+  "date": "2026-04-15T00:14:19Z",
   "notes": "",
   "url": "https://github.com/K7MJG/SKCCLogger-releases/releases/latest",
   "downloads": {
-    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-linux-amd64-v1.0.135b",
-    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-linux-arm64-v1.0.135b",
-    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-linux-x86-v1.0.135b",
-    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-linux-armhf-v1.0.135b",
-    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-windows-amd64-v1.0.135b.exe",
-    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-windows-x86-v1.0.135b.exe",
-    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-macos-intel-v1.0.135b.tar.gz",
-    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.135b/skcclogger-macos-arm64-v1.0.135b.tar.gz"
+    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-linux-amd64-v1.0.136b",
+    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-linux-arm64-v1.0.136b",
+    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-linux-x86-v1.0.136b",
+    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-linux-armhf-v1.0.136b",
+    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-windows-amd64-v1.0.136b.exe",
+    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-windows-x86-v1.0.136b.exe",
+    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-macos-intel-v1.0.136b.tar.gz",
+    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.136b/skcclogger-macos-arm64-v1.0.136b.tar.gz"
   }
 }
