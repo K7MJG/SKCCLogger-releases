@@ -1,19 +1,19 @@
 {
-  "version": "v1.2.7",
-  "date": "2026-08-24T01:57:08Z",
+  "version": "v1.2.8",
+  "date": "2026-09-08T14:39:18Z",
   "notes": "",
   "url": "https://github.com/K7MJG/SKCCLogger-releases/releases/latest",
   "downloads": {
-    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-linux-amd64-v1.2.7.deb",
-    "linux-amd64-rpm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-linux-amd64-v1.2.7.rpm",
-    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-linux-arm64-v1.2.7.deb",
-    "linux-arm64-rpm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-linux-arm64-v1.2.7.rpm",
-    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-linux-x86-v1.2.7",
-    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-linux-armhf-v1.2.7",
-    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-windows-amd64-v1.2.7.zip",
-    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-windows-x86-v1.2.7.zip",
-    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-macos-intel-v1.2.7.tar.gz",
-    "darwin-amd64-mojave": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-macos-intel-mojave-v1.2.7.tar.gz",
-    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.7/skcclogger-macos-arm64-v1.2.7.tar.gz"
+    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-amd64-v1.2.8.deb",
+    "linux-amd64-rpm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-amd64-v1.2.8.rpm",
+    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-arm64-v1.2.8.deb",
+    "linux-arm64-rpm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-arm64-v1.2.8.rpm",
+    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-x86-v1.2.8",
+    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-armhf-v1.2.8",
+    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-windows-amd64-v1.2.8.zip",
+    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-windows-x86-v1.2.8.zip",
+    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-macos-intel-v1.2.8.tar.gz",
+    "darwin-amd64-mojave": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-macos-intel-mojave-v1.2.8.tar.gz",
+    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-macos-arm64-v1.2.8.tar.gz"
   }
 }
