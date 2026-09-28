@@ -3,38 +3,40 @@
 Log manager for the
 [Straight Key Century Club (SKCC)](https://skccgroup.com).
 
-## Latest Version: v1.2.8
+## Latest Version: v1.3.0
 
 | Platform | Notes | Download |
 | --- | --- | --- |
-| Windows (64-bit) | Most Windows PCs (Windows 10/11) | [skcclogger-windows-amd64-v1.2.8.zip][win64] |
-| Windows (32-bit) | Older 32-bit Windows PCs | [skcclogger-windows-x86-v1.2.8.zip][win32] |
-| macOS (Apple Silicon) | Mac with M1/M2/M3/M4 chip (2020 or newer) | [skcclogger-macos-arm64-v1.2.8.tar.gz][mac-arm] |
-| macOS (Intel) | Mac with Intel chip (macOS 12 Monterey or newer) | [skcclogger-macos-intel-v1.2.8.tar.gz][mac-intel] |
-| macOS (Intel, older) | Mac with Intel chip running macOS 10.14 Mojave through 11 Big Sur | [skcclogger-macos-intel-mojave-v1.2.8.tar.gz][mac-mojave] |
-| Linux (64-bit) | Most desktop Linux PCs | [.deb][linux-amd64-deb] / [.rpm][linux-amd64-rpm] |
-| Linux (ARM 64-bit) | ARM-based Linux (e.g., Raspberry Pi 4/5 with 64-bit OS) | [.deb][linux-arm64-deb] / [.rpm][linux-arm64-rpm] |
-| Linux (32-bit) | Older 32-bit Linux PCs | [skcclogger-linux-x86-v1.2.8][linux-x86] |
-| Linux (Raspberry Pi) | Raspberry Pi with 32-bit OS | [skcclogger-linux-armhf-v1.2.8][linux-armhf] |
+| Windows (64-bit) | Most Windows PCs (Windows 10/11) | [skcclogger-windows-amd64-v1.3.0.zip][win64] |
+| Windows (32-bit) | Older 32-bit Windows PCs | [skcclogger-windows-x86-v1.3.0.zip][win32] |
+| macOS (Apple Silicon) | Mac with M1/M2/M3/M4 chip (2020 or newer) | [skcclogger-macos-arm64-v1.3.0.tar.gz][mac-arm] |
+| macOS (Intel) | Mac with Intel chip (macOS 12 Monterey or newer) | [skcclogger-macos-intel-v1.3.0.tar.gz][mac-intel] |
+| macOS (Intel, older) | Mac with Intel chip running macOS 10.14 Mojave through 11 Big Sur | [skcclogger-macos-intel-mojave-v1.3.0.tar.gz][mac-mojave] |
+| Linux (64-bit) | Most desktop Linux PCs | [.deb][linux-amd64-deb] / [.rpm][linux-amd64-rpm] / [Arch][linux-amd64-arch] |
+| Linux (ARM 64-bit) | ARM-based Linux (e.g., Raspberry Pi 4/5 with 64-bit OS) | [.deb][linux-arm64-deb] / [.rpm][linux-arm64-rpm] / [Arch][linux-arm64-arch] |
+| Linux (32-bit) | Older 32-bit Linux PCs | [skcclogger-linux-x86-v1.3.0][linux-x86] |
+| Linux (Raspberry Pi) | Raspberry Pi with 32-bit OS | [skcclogger-linux-armhf-v1.3.0][linux-armhf] |
 
-[win64]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-windows-amd64-v1.2.8.zip
-[win32]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-windows-x86-v1.2.8.zip
-[mac-arm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-macos-arm64-v1.2.8.tar.gz
-[mac-intel]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-macos-intel-v1.2.8.tar.gz
-[mac-mojave]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-macos-intel-mojave-v1.2.8.tar.gz
-[linux-amd64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-amd64-v1.2.8.deb
-[linux-amd64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-amd64-v1.2.8.rpm
-[linux-arm64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-arm64-v1.2.8.deb
-[linux-arm64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-arm64-v1.2.8.rpm
-[linux-x86]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-x86-v1.2.8
-[linux-armhf]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.2.8/skcclogger-linux-armhf-v1.2.8
+[win64]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-windows-amd64-v1.3.0.zip
+[win32]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-windows-x86-v1.3.0.zip
+[mac-arm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-macos-arm64-v1.3.0.tar.gz
+[mac-intel]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-macos-intel-v1.3.0.tar.gz
+[mac-mojave]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-macos-intel-mojave-v1.3.0.tar.gz
+[linux-amd64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-amd64-v1.3.0.deb
+[linux-amd64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-amd64-v1.3.0.rpm
+[linux-arm64-deb]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-arm64-v1.3.0.deb
+[linux-arm64-rpm]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-arm64-v1.3.0.rpm
+[linux-amd64-arch]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-amd64-arch-v1.3.0.pkg.tar.zst
+[linux-arm64-arch]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-arm64-arch-v1.3.0.pkg.tar.zst
+[linux-x86]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-x86-v1.3.0
+[linux-armhf]: https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.3.0/skcclogger-linux-armhf-v1.3.0
 
 ## Checksums and Platform Notes
 
 The [full release page][release-page] includes MD5 checksums and
 platform-specific README files with detailed installation instructions.
 
-[release-page]: https://github.com/K7MJG/SKCCLogger-releases/releases/tag/v1.2.8
+[release-page]: https://github.com/K7MJG/SKCCLogger-releases/releases/tag/v1.3.0
 
 ## Installation
 
@@ -45,7 +47,7 @@ inside. No installer needed.
 `SKCCLogger v2.app` to your Applications folder. On first launch,
 right-click and choose Open to bypass Gatekeeper.
 
-**Linux:** Download the `.deb` / `.rpm` package, or download the
+**Linux:** Download the `.deb` / `.rpm` / Arch package, or download the
 binary and make it executable (`chmod +x skcclogger-linux-*`).
 
 ## Which download do I need?
@@ -68,7 +70,9 @@ install Rosetta the first time you open it. Updating to macOS 12 or
 newer is the better fix if your Mac allows it.
 
 **Linux:** Use the `.deb` package for Debian, Ubuntu, and Mint.
-Use the `.rpm` package for Fedora, RHEL, and openSUSE. For
+Use the `.rpm` package for Fedora, RHEL, and openSUSE. Use the Arch
+package (`.pkg.tar.zst`, install with `sudo pacman -U`) for Arch,
+Manjaro, and EndeavourOS. For
 Raspberry Pi, choose "Raspberry Pi" (32-bit OS) or "ARM 64-bit"
 (64-bit OS).
 
